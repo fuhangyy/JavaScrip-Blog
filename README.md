@@ -22,3 +22,4 @@ let obj = new Foo();
 obj.a();
 Foo.a();
 ```
+[2.请写出如下代码的打印结果](https://github.com/fuhangyy/Vue-Blog/issues/1)

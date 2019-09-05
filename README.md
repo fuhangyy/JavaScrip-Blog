@@ -2,7 +2,9 @@
 #### JavaScript知识点梳理
 
 
-> 第1题：[1, 2, 3].map(paeseInt) what & why?  
+> 第1题：[1, 2, 3].map(paeseInt) what & why?   
+
+
 解析：[第1题](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
          
          

@@ -1,5 +1,6 @@
 # 前言
-#### JavaScript知识点梳理
+
+JavaScript知识点梳理
 
 
 > 第1题：[1, 2, 3].map(paeseInt) what & why?   

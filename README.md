@@ -1,5 +1,7 @@
 # 前言
 
+越努力，越幸福
+
 > 第1题：[1, 2, 3].map(paeseInt) what & why?   
 
 解析：[第1题](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)

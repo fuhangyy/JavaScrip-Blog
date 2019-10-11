@@ -13,5 +13,9 @@
 > 第2题：如何使(a == 1 && a == 2 && a == 3)成立
 
 解析：[传送门](https://github.com/fuhangyy/JavaScrip-Blog/issues/2)
+<br/><br/>        
+> 第3题：冒泡排序
+
+解析：[传送门](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
 
 

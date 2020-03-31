@@ -5,6 +5,6 @@
 越努力，越幸福，加油！！
 <br/><br/> 
 
-1. [[1, 2, 3].map(paeseInt) what & why?  ](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
+1.[[1, 2, 3].map(paeseInt) what & why?](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
 
 

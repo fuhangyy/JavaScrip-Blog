@@ -9,3 +9,4 @@
 
 2.[this绑定解析](https://github.com/fuhangyy/JavaScrip-Blog/issues/2)
 
+2.[面试题整理](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)

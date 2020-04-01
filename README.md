@@ -9,4 +9,6 @@
 
 2.[this绑定解析](https://github.com/fuhangyy/JavaScrip-Blog/issues/2)
 
-2.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
+3.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
+
+4.[JS继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)

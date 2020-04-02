@@ -5,10 +5,16 @@
 越努力，越幸福，加油！！
 <br/><br/> 
 
+#### JS系列篇之继承
+
+1.[JS继承-原型链继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)
+
+-------------------------------------
+
 1.[[1, 2, 3].map(paeseInt) what & why?](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
 
 2.[this绑定解析](https://github.com/fuhangyy/JavaScrip-Blog/issues/2)
 
 3.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
 
-4.[JS继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)
+

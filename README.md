@@ -13,8 +13,8 @@
 
 #### JS系列篇之继承
 
-[前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)
+1.[前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)
 
-1.[JS继承-原型链继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/5)
+2.[JS继承-原型链继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/5)
 
 

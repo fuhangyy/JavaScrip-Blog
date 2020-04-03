@@ -5,6 +5,8 @@
 越努力，越幸福，加油！！
 <br/><br/> 
 
+#### JS知识点汇总
+
 1.[[1, 2, 3].map(paeseInt) what & why?](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
 
 2.[this绑定解析](https://github.com/fuhangyy/JavaScrip-Blog/issues/2)

@@ -21,4 +21,6 @@
 
 3.[JS继承-借用构造函数继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/6)
 
+4.[JS继承-组合继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/7)
+
 

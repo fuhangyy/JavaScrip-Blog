@@ -25,4 +25,6 @@
 
 5.[JS继承-原型式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/8)
 
+6.[JS继承-寄生式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/9)
+
 

@@ -29,7 +29,7 @@
 
 7.[JS继承-寄生组合式继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/10) 
 
-
+8.[JS继承-混入方式继承多个对象](https://github.com/fuhangyy/JavaScrip-Blog/issues/11) 
 
 
 

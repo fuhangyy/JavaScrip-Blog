@@ -31,5 +31,6 @@
 
 8.[JS继承-混入方式继承多个对象](https://github.com/fuhangyy/JavaScrip-Blog/issues/11) 
 
+9.[JS继承-ES6中Class继承](https://github.com/fuhangyy/JavaScrip-Blog/issues/12) 
 
 

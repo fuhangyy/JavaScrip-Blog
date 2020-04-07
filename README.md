@@ -13,6 +13,8 @@
 
 3.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
 
+4.[节流函数与防抖函数](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)
+
 #### JS系列篇之继承
 
 1.[JS继承-前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)

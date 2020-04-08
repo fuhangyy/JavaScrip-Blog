@@ -15,6 +15,8 @@
 
 4.[函数节流与函数防抖](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)
 
+5.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)
+
 #### JS系列篇之继承
 
 1.[JS继承-前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)

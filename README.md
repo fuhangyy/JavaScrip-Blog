@@ -13,9 +13,9 @@
 
 3.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
 
-4.[函数节流与函数防抖](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)
+4.[函数节流与函数防抖](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)(未完成)
 
-5.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)
+5.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)(未完成)
 
 #### JS系列篇之继承
 

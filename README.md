@@ -13,7 +13,7 @@
 
 3.[对象数组去重](https://github.com/fuhangyy/JavaScrip-Blog/issues/3)
 
-4.[函数节流(throttle)](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)(未完成)
+4.[函数节流(throttle)](https://github.com/fuhangyy/JavaScrip-Blog/issues/13)
 
 5.[函数防抖(debounce)](https://github.com/fuhangyy/JavaScrip-Blog/issues/15)
 

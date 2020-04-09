@@ -17,7 +17,7 @@
 
 5.[函数防抖(debounce)](https://github.com/fuhangyy/JavaScrip-Blog/issues/15)
 
-6.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)(未完成)
+6.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)(部分内容未完成)
 
 #### JS系列篇之继承
 

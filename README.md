@@ -19,6 +19,8 @@
 
 6.[如何实现浅拷贝和深拷贝](https://github.com/fuhangyy/JavaScrip-Blog/issues/14)(部分内容未完成)
 
+7.['Hello World'.substring(0, 5)发生了什么](https://github.com/fuhangyy/JavaScrip-Blog/issues/16)
+
 #### JS系列篇之继承
 
 1.[JS继承-前置知识](https://github.com/fuhangyy/JavaScrip-Blog/issues/4)

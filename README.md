@@ -5,6 +5,11 @@
 越努力，越幸福，加油！！
 <br/><br/> 
 
+#### 链接收藏
+1.[eslint-vue](https://www.jianshu.com/p/3b2a1ad0041f)
+
+1.[eslint-react](https://www.jianshu.com/p/2cfa44b8da27)
+
 #### JS知识点汇总
 
 1.[[1, 2, 3].map(paeseInt) what & why?](https://github.com/fuhangyy/JavaScrip-Blog/issues/1)
